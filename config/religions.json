@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Mormonism",
+    "slug": "mormonism",
+    "icon": "temple",
+    "description": "The Church of Jesus Christ of Latter-day Saints and related movements",
+    "resourceCount": 147,
+    "color": "#007bff"
+  },
+  {
+    "name": "Christianity",
+    "slug": "christianity",
+    "icon": "cross",
+    "description": "High-control Christian groups, denominations, and movements",
+    "resourceCount": 212,
+    "color": "#6610f2"
+  },
+  {
+    "name": "Jehovah's Witnesses",
+    "slug": "jehovahs-witnesses",
+    "icon": "book-open",
+    "description": "Watchtower organization and JW movement resources",
+    "resourceCount": 89,
+    "color": "#e83e8c"
+  },
+  {
+    "name": "Scientology",
+    "slug": "scientology",
+    "icon": "star",
+    "description": "Church of Scientology and related organizations",
+    "resourceCount": 156,
+    "color": "#20c997"
+  },
+  {
+    "name": "Islam",
+    "slug": "islam",
+    "icon": "mosque",
+    "description": "High-control Islamic groups and movements",
+    "resourceCount": 73,
+    "color": "#17a2b8"
+  },
+  {
+    "name": "Judaism",
+    "slug": "judaism",
+    "icon": "star-of-david",
+    "description": "Closed Jewish communities and high-control groups",
+    "resourceCount": 58,
+    "color": "#ffc107"
+  },
+  {
+    "name": "Buddhism",
+    "slug": "buddhism",
+    "icon": "lotus",
+    "description": "Buddhist groups with control dynamics and abusive practices",
+    "resourceCount": 64,
+    "color": "#fd7e14"
+  },
+  {
+    "name": "Hinduism",
+    "slug": "hinduism",
+    "icon": "om",
+    "description": "Hindu groups with high-control and exploitative practices",
+    "resourceCount": 42,
+    "color": "#ff6b6b"
+  },
+  {
+    "name": "Cults & New Religions",
+    "slug": "cults",
+    "icon": "alert-circle",
+    "description": "Unaffiliated cults, new religious movements, and independent high-control groups",
+    "resourceCount": 198,
+    "color": "#d63031"
+  },
+  {
+    "name": "General Resources",
+    "slug": "general",
+    "icon": "help-circle",
+    "description": "Cross-cutting resources on recovery, cult dynamics, and deconstruction",
+    "resourceCount": 134,
+    "color": "#6c757d"
+  }
+]
